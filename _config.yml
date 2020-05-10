@@ -1,4 +1,4 @@
-repository: francolmenar-UC3M/francolmenar-UC3M.github.io
+repository: francolmenar-VUW/francolmenar-VUW.github.io
 
 
 layout: sidebar
@@ -35,7 +35,7 @@ projects:
     archived: false
     forks: false
     projects:
-      - francolmenar-UC3M.github.io
+      - francolmenar-VUW.github.io
 
 social_media:
   # behance: your_username
@@ -67,10 +67,10 @@ topics:
 organizations:
   Francolmenar: "true"
   Personal Projects: "true"
-  UC3M: "false"
+  UC3M: "true"
   UT: "true"
   USYD: "true"
-  VUW: "true"
+  VUW: "false"
 
 technologies:
   # Bitcoin: "true"
@@ -84,7 +84,7 @@ technologies:
   # JavaScript: "true"
   # Jupyter Notebook: "true"
   # Monero: "true"
-  # Python: "true"
+  Python: "true"
   # React: "true"
   # Rust: "true"
-  SQL: "true"
+  # SQL: "true"
